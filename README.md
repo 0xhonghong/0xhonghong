@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @0xhonghong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I am really studying at present.
-- 📫 How to reach me ...
+I'm a passionate GitHub programmer dedicated to crafting innovative software solutions. My skills span various programming languages and tech stacks, aiming to create valuable projects through efficient code. Feel free to explore my GitHub repositories to discover my coding style and project contributions.
 
 <!---
 0xhonghong/0xhonghong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
